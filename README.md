@@ -48,7 +48,7 @@
 
 ## 📁 專案資源 (Project Resources)
 - 🐍 **[核心分析程式碼 (Jupyter Notebook)](./US_Rent_Growth_and_Quit_Rate_Analysis.ipynb)**：包含完整的數據爬取、滯後回歸與策略回測邏輯。
-- 📊 **[研究簡報 (PDF Report)](./US_Rent_Growth_and_Quit_Rate_Analysis.pdf)**：針對數據洞察、利率衝擊與策略反思的視覺化呈現。
+- 📊 **[研究簡報 (PDF Report)](./presentation/US_Rent_Growth_and_Quit_Rate_Analysis.pdf)**：針對數據洞察、利率衝擊與策略反思的視覺化呈現。
 
 ## 👥 專案背景與團隊分工 (Project Background & Credits)
 本專案起源於課程個人研究提案，因研究動機與實證初步結果獲得團隊認可，選為期末團體研究主題。
