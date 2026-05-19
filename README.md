@@ -43,7 +43,7 @@
 - **語言**：Python 3.x
 - **數據處理**：Pandas, NumPy
 - **統計建模**：Statsmodels (OLS Regression)
-- **數據串接 API**：Pandas-DataReader
+- **數據串接**：Pandas-DataReader
 - **視覺化**：Matplotlib, Seaborn
 
 ## 📁 專案資源 (Project Resources)
